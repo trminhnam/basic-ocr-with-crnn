@@ -1,0 +1,9 @@
+letters: " #'()+,-./:0123456789ABCDEFGHIJKLMNOPQRSTUVWXYabcdeghiklmnopqrstuvxyzÂÊÔàáâãèéêìíòóôõùúýăĐđĩũƠơưạảấầẩậắằẵặẻẽếềểễệỉịọỏốồổỗộớờởỡợụủỨứừửữựỳỵỷỹ"
+image:
+    width: 2560
+    height: 160
+image_dir: "data_ocr/images"
+label_dir: "data_ocr/labels.json"
+model:
+    hidden_size: 256
+    num_layers: 2
